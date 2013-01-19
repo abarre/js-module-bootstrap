@@ -21,7 +21,7 @@ cake build -> build the project in the build folder
 
 ```
 coffee --watch --compile --output src/js src/coffee;coffee --watch --compile --output test/js test/coffee
-``
+```
 
 ## License
 
